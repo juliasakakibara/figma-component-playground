@@ -1,7 +1,7 @@
 
-  # E-commerce Home Page Layout
+  # Figma Component Playground
 
-  This is a code bundle for E-commerce Home Page Layout. The original project is available at https://www.figma.com/design/R7LseXpnJEVcnXGrrgv3tV/E-commerce-Home-Page-Layout.
+  This is a code bundle for Figma Component Playground. The original project is available at https://www.figma.com/design/R7LseXpnJEVcnXGrrgv3tV/Figma-Component-Playground.
 
   ## Running the code
 
